@@ -1,6 +1,6 @@
 # What Now?
 
-<img src="images/homepage.jpg" width="600"><br>
+<img src="Images/homepage.jpg" width="600"><br>
 
 * This is an android application.
 * Created for NUS Orbital - CP2106: Independent Software Development Project
